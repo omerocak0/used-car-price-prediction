@@ -1,4 +1,4 @@
-# 🚗 İkinci El Araç Fiyat Tahmin Sistemi (Hybrid Model)
+# İkinci El Araç Fiyat Tahmin Sistemi
 
 Bu proje, Türkiye ikinci el otomobil piyasasını analiz ederek araçların fiyatını tahmin eden ve segmentlere ayıran bir **Makine Öğrenmesi** ve **Derin Öğrenme** sistemidir.
 
